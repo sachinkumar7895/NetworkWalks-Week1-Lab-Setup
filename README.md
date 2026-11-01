@@ -1,6 +1,6 @@
 ## **NetworkWalks – Week 1 Lab Setup**
 
-Project Overview
+## Project Overview
 
 This project focuses on setting up a practical cybersecurity lab environment using Oracle VirtualBox and Kali Linux as part of the NetworkWalks Academy Week 1 Project Module 1.
 
