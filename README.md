@@ -4,7 +4,7 @@
 
 This project focuses on setting up a practical cybersecurity lab environment using Oracle VirtualBox and Kali Linux as part of the NetworkWalks Academy Week 1 Project Module 1.
 
-Objectives
+##Objectives
 
 - Set up Kali Linux in Oracle VirtualBox.
 - Configure a NAT Network.
@@ -14,13 +14,13 @@ Objectives
 - Configure a shared folder between host and virtual machine.
 - Create a virtual machine snapshot.
 
-Tools Used
+##Tools Used
 
 - Oracle VirtualBox
 - Kali Linux
 - Windows Host Machine
 
-Lab Configuration
+##Lab Configuration
 
 - NAT Network: "NatNetwork"
 - Network Subnet: "10.0.0.0/24"
@@ -31,15 +31,15 @@ Lab Configuration
 - Shared Clipboard: Bidirectional
 - Drag & Drop: Bidirectional
 
-Screenshots
+##Screenshots
 
 Screenshots showing the lab configuration and setup process are available in the "Screenshots" folder.
 
-Project Status
+##Project Status
 
 Completed the Week 1 practical lab environment setup and saved a VirtualBox snapshot for future use.
 
-Learning Outcomes
+##Learning Outcomes
 
 - Learned VirtualBox network configuration.
 - Practiced static IP configuration in Kali Linux.
