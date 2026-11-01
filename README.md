@@ -1,4 +1,4 @@
-NetworkWalks – Week 1 Lab Setup
+## **NetworkWalks – Week 1 Lab Setup**
 
 Project Overview
 
