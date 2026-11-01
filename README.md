@@ -47,8 +47,8 @@ Completed the Week 1 practical lab environment setup and saved a VirtualBox snap
 - Learned shared folder configuration.
 - Understood VM snapshot creation and management.
 
-Author
+## Author
 
 Sachin Kumar
 
-Program: NetworkWalks Academy – Cybersecurity Internship
+## Program: NetworkWalks Academy – Cybersecurity Internship
